@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mourner/simplify-js.git"
+    "url": "git://github.com/interoru/simplify-js.git"
   },
   "main": "simplify.js",
   "devDependencies": {
